@@ -170,8 +170,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ## 👨‍💻 Author
 
 **Your Name**
-- 🐙 GitHub: [@your-username](https://github.com/your-username)
-- 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)
+- 🐙 GitHub: [charayadev](https://github.com/charayadev)
+- 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/charayadev)
 
 ---
 
